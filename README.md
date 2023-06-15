@@ -10,7 +10,7 @@ Inspired from https://github.com/JayaramachandranAugustin/ChatApplication
 ```
 
 ## ChatRoom ScreenShot
-(https://github.com/anix001/Springboot-WebSocket-Chatroom-with-ReactJs/blob/main/image/chatroom.png?raw=true)
+https://github.com/anix001/Springboot-WebSocket-Chatroom-with-ReactJs/blob/main/image/chatroom.png
 
 
 ## React JS (Vite)
