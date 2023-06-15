@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@400;500;700&family=Tilt+Prism&display=swap');
+
+.app{
+  width: 70%;
+  margin: 2rem auto;
+}
+
+.chatroom-layout{
+  font-family: 'Caveat', cursive !important;
+  font-weight: 700;
+}
+.login-layout{
+  background: url('./assets/icon.png');
+  font-family: 'Tilt Prism', cursive;
+  font-weight: 400;
+}
+
+.active-tab{
+ background-color: aqua;
+}

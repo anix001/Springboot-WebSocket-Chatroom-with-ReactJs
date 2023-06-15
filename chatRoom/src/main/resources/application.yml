@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: CHAT_ROOM
+
+server:
+  port: 8081
+  error:
+    include-message: always
