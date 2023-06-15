@@ -10,7 +10,7 @@ Inspired from https://github.com/JayaramachandranAugustin/ChatApplication
 ```
 
 ## ChatRoom ScreenShot
-https://github.com/anix001/Springboot-WebSocket-Chatroom-with-ReactJs/blob/main/image/chatroom.png
+(https://github.com/anix001/Springboot-WebSocket-Chatroom-with-ReactJs/blob/main/image/chatroom.png)
 
 
 ## React JS (Vite)
@@ -21,6 +21,6 @@ https://github.com/anix001/Springboot-WebSocket-Chatroom-with-ReactJs/blob/main/
 
 ## Spring boot 
 ```python
-    - mvn spring-boot:run (in the chatRoom folder)
+- mvn spring-boot:run (in the chatRoom folder)
 ```
 
